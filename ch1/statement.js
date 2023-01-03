@@ -68,4 +68,4 @@ function statement(invoices, plays) {
   return result;
 }
 
-console.log(statement(invoices, plays));
+module.exports = statement;
