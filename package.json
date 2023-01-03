@@ -1,0 +1,23 @@
+{
+  "name": "refactoring-2nd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeounpar/refactoring-2nd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeounpar/refactoring-2nd/issues"
+  },
+  "homepage": "https://github.com/jeounpar/refactoring-2nd#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
